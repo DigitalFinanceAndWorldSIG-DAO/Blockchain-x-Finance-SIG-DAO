@@ -1,8 +1,8 @@
-# ResearchDAO-Knowledge-Base
+# SIG ResearchDAO Knowledge Base
 
 > [中文版文档](./README-zh.md)
 
-## ResearchDAO Introduction
+## SIGResearchDAO Introduction
 
 ResearchDAO is led by Nanjing University Finance and Blockchain Special Interest Group, aiming at using the power of DAO to do research and produce academic research papers on areas including Blockchain, Web3, and DeFi technologies.
 
