@@ -22,3 +22,8 @@ This repo will serve as a knowledge base for ResearchDAO's research topics. Ever
 
 ## Finished research
 
+...
+
+## Join SIGResearchDAO
+
+Everyone in any background and experience is welcomed to join our SIGResearchDAO. Contact us on Wechat (ID: wxid_hmb9bh2xph7s22)! 
