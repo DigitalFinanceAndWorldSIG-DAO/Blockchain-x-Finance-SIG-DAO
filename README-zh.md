@@ -14,7 +14,7 @@
 
 1. 隐私计算
 
-    [赏金任务](https://github.com/DigitalFinanceAndWorldSIG/Privacy-Preserving-Computing)
+    [赏金任务](https://github.com/DigitalFinanceAndWorldSIG-DAO/Privacy-Preserving-Computing)
 
     [知识库](./Privacy-Preserving-Computing/)
 
