@@ -1,14 +1,14 @@
-# Nanjing University Blockchain x Finance Research SIG Knowledge Base
+# Nanjing University Blockchain x Finance Research SIG (DAO) Knowledge Base
 
 > [中文文档](./README-zh.md)
 
-## Blockchain x Finance Research SIG Introduction
+## Blockchain x Finance Research SIG (DAO) Introduction
 
-The [Blockchain x Finance SIG](https://cms.nju.edu.cn/xxglxy/yjtd/yjtd/20210825/i205230.html) is organized by the Center for Inclusive Financial Technology Innovation of Nanjing University. We are committed to tracking, participating and leading international/national theoretical innovation and practical exploration in the field of blockchain finance. The purpose of establishing a special interest group is to attract academia, industry, social organizations and friends to join the research and promotion of blockchain x finance in a distributed and collaborative manner. 
+The [Blockchain x Finance SIG (DAO)](https://cms.nju.edu.cn/xxglxy/yjtd/yjtd/20210825/i205230.html) is organized by the Center for Inclusive Financial Technology Innovation of Nanjing University. We are committed to tracking, participating and leading international/national theoretical innovation and practical exploration in the field of blockchain finance. The purpose of establishing a special interest group is to attract academia, industry, social organizations and friends to join the research and promotion of blockchain x finance in a distributed and collaborative manner. 
 
 ## Knowledge Base
 
-This repository will be used as a knowledge base to store the research projects involved in the different researches of ResearchDAO. Anyone can contribute content through PR, which can be academic papers, investment reports, or even tweets. Any material that will help you improve your knowledge of the direction you are heading can be submitted!
+This repository will be used as a knowledge base to store the research projects involved in the different researches of Blockchain x Finance SIG (DAO). Anyone can contribute content through PR, which can be academic papers, investment reports, or even tweets. Any material that will help you improve your knowledge of the direction you are heading can be submitted!
 
 ## Active Research
 
