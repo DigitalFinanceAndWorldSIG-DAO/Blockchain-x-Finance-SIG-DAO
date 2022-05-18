@@ -1,0 +1,86 @@
+2022-05-15 08:56:07.930 [main] INFO  ConnectionManager() -  all connections, size: 1, list: [ConnectionInfo{host='127.0.0.1', port=20222}]
+2022-05-15 08:56:08.010 [main] INFO  ConnectionManager() -  build ECDSA ssl context with configured certificates 
+2022-05-15 08:56:08.951 [nioEventLoopGroup-2-1] INFO  ChannelHandler() -  handshake success, host: 127.0.0.1, port: 20222, ctx: 1882474574
+2022-05-15 08:56:09.083 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  node: ClientVersion{version='2.8.0', supportedVersion='2.8.0', chainId='1', buildTime='20210830 12:52:15', buildType='Linux/clang/Release', gitBranch='HEAD', gitCommitHash='30fb38ac5692468058abf6aa12869d2ae776c275'}, content: {"id":0,"jsonrpc":"2.0","result":{"Build Time":"20210830 12:52:15","Build Type":"Linux/clang/Release","Chain Id":"1","FISCO-BCOS Version":"2.8.0","Git Branch":"HEAD","Git Commit Hash":"30fb38ac5692468058abf6aa12869d2ae776c275","Supported Version":"2.8.0"}}
+
+2022-05-15 08:56:09.085 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  support channel handshake node
+2022-05-15 08:56:09.092 [nioEventLoopGroup-2-1] INFO  ChannelImp() -  channel protocol handshake success, set socket channel protocol, host: 127.0.0.1:20222, channel protocol: ChannelProtocol [protocol=3, nodeVersion=2.8.0, EnumProtocol=VERSION_3]
+2022-05-15 08:56:09.122 [main] INFO  ChannelImp() -  Connect to  nodes: 127.0.0.1:20222, java version: 1.8.0_301 ,java vendor: Oracle Corporation
+2022-05-15 08:56:09.127 [main] INFO  BcosSDK() - create BcosSDK, start channel success, cryptoType: 0
+2022-05-15 08:56:09.133 [main] INFO  BcosSDK() - create BcosSDK, start channel succ, channelProcessorThreadSize: 50, receiptProcessorThreadSize: 50
+2022-05-15 08:56:09.149 [main] INFO  GroupManagerServiceImpl() - registerBlockNumberNotifyHandler
+2022-05-15 08:56:09.150 [main] INFO  GroupManagerServiceImpl() - registerTransactionNotifyHandler
+2022-05-15 08:56:09.272 [main] INFO  BcosSDK() - create BcosSDK, create groupManagerService success
+2022-05-15 08:56:10.361 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.378 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.819 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.822 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.839 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.843 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.861 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.863 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.870 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.877 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.897 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.901 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.929 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.933 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.987 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:10.988 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.005 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.007 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.008 [main] INFO  AmopImp() - update subscribe inform 1 peers
+2022-05-15 08:56:11.021 [main] INFO  AmopImp() - amop module started
+2022-05-15 08:56:11.022 [main] INFO  AmopImp() - update subscribe inform 1 peers
+2022-05-15 08:56:11.023 [main] INFO  BcosSDK() - create BcosSDK, create Amop success
+2022-05-15 08:56:11.769 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.770 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.783 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.784 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.814 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:11.817 [main] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:21.977 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:21.981 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.014 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.014 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.030 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.031 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.035 [http-nio-5022-exec-1] INFO  CryptoSuite() - init CryptoSuite, cryptoType: 0
+2022-05-15 08:56:22.045 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.048 [http-nio-5022-exec-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:22.050 [http-nio-5022-exec-1] INFO  Client() - build client success for group 1
+2022-05-15 08:56:22.050 [http-nio-5022-exec-1] INFO  BcosSDK() - create client for group 1 success
+2022-05-15 08:56:25.633 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.638 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.660 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.661 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.690 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.691 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.692 [pool-11-thread-1] INFO  CryptoSuite() - init CryptoSuite, cryptoType: 0
+2022-05-15 08:56:25.703 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.704 [pool-11-thread-1] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 08:56:25.705 [pool-11-thread-1] INFO  Client() - build client success for group 2
+2022-05-15 08:56:25.714 [pool-11-thread-1] INFO  BcosSDK() - create client for group 2 success
+2022-05-15 11:57:39.104 [http-nio-5022-exec-2] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 11:57:39.113 [http-nio-5022-exec-2] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 11:57:39.150 [http-nio-5022-exec-2] INFO  ContractABIDefinition() -  name: getHash2, methodId: 0x33c0f099, methodSignature: getHash2(), abi: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.150 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  abiDefinition: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.150 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  contractABIDefinition org.fisco.bcos.sdk.abi.wrapper.ContractABIDefinition@6ee67797 
+2022-05-15 11:57:39.161 [http-nio-5022-exec-2] INFO  ContractABIDefinition() -  name: getHash2, methodId: 0x33c0f099, methodSignature: getHash2(), abi: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.162 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  abiDefinition: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.162 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  contractABIDefinition org.fisco.bcos.sdk.abi.wrapper.ContractABIDefinition@bca2ed2 
+2022-05-15 11:57:39.168 [http-nio-5022-exec-2] INFO  ABIObjectFactory() -  name: getHash2
+2022-05-15 11:57:39.186 [http-nio-5022-exec-2] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 11:57:39.187 [http-nio-5022-exec-2] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 11:57:39.188 [http-nio-5022-exec-2] INFO  ContractABIDefinition() -  name: getHash2, methodId: 0x33c0f099, methodSignature: getHash2(), abi: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.189 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  abiDefinition: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.189 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  contractABIDefinition org.fisco.bcos.sdk.abi.wrapper.ContractABIDefinition@103e6eb5 
+2022-05-15 11:57:39.207 [http-nio-5022-exec-2] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 11:57:39.208 [http-nio-5022-exec-2] WARN  KeyTool() - get method for EC5Util failed, method name: convertSpec
+2022-05-15 11:57:39.232 [http-nio-5022-exec-2] INFO  ContractABIDefinition() -  name: getHash2, methodId: 0x33c0f099, methodSignature: getHash2(), abi: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.232 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  abiDefinition: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.232 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  contractABIDefinition org.fisco.bcos.sdk.abi.wrapper.ContractABIDefinition@354b6c6d 
+2022-05-15 11:57:39.233 [http-nio-5022-exec-2] INFO  ABIObjectFactory() -  name: getHash2
+2022-05-15 11:57:39.239 [http-nio-5022-exec-2] INFO  ContractABIDefinition() -  name: getHash2, methodId: 0x33c0f099, methodSignature: getHash2(), abi: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.239 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  abiDefinition: org.fisco.bcos.sdk.abi.wrapper.ABIDefinition@fa04e176
+2022-05-15 11:57:39.239 [http-nio-5022-exec-2] INFO  ABIDefinitionFactory() -  contractABIDefinition org.fisco.bcos.sdk.abi.wrapper.ContractABIDefinition@2e3c9892 
