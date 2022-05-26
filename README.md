@@ -17,6 +17,12 @@ This repository will be used as a knowledge base to store the research projects 
     [Bounty Task](https://github.com/DigitalFinanceAndWorldSIG/Privacy-Preserving-Computing)
 
     [Knowledge Base](./Privacy-Preserving-Computing/)
+   
+2. Blockchain x Finance
+
+    [Bounty Task]([https://github.com/DigitalFinanceAndWorldSIG/Privacy-Preserving-Computing](https://github.com/DigitalFinanceAndWorldSIG-DAO/Blockchain-x-Finance-SIG-DAO/tree/master))
+
+    [Knowledge Base](./)
 
 ## Completed Research
 
