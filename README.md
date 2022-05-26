@@ -13,6 +13,8 @@ This repository will be used as a knowledge base to store the research projects 
 ## Active Research
 
 1. Privacy Computing
+    
+    We would like to develop a high quality research report on privacy computing in DeFi and financial applications. We will offer a reward of 5000 RMB for the report.
 
     [Bounty Task](https://github.com/DigitalFinanceAndWorldSIG/Privacy-Preserving-Computing)
 
@@ -20,6 +22,8 @@ This repository will be used as a knowledge base to store the research projects 
    
 2. Blockchain x Finance
 
+    We would like to explore NFT and DeFi applications such as UniSwap, Compound, etc. We will offer various rewards for these tasks.
+    
     [Bounty Task](https://github.com/DigitalFinanceAndWorldSIG-DAO/Blockchain-x-Finance-SIG-DAO/tree/master)
 
     [Knowledge Base](./)
@@ -27,8 +31,7 @@ This repository will be used as a knowledge base to store the research projects 
 ## Completed Research
 
 ## Task Bounty
-
-We would like to develop a high quality research report on privacy computing in DeFi and financial applications. We will offer a reward of 5000 RMB for the report. Substantial quality contributions (top ranking) will be credited. Students will also receive a certificate of work in English and Chinese, a certificate of achievement, a letter of recommendation, an internship, and a full-time job offer from the research center. All interested parties are welcome to apply. Those who have special skills and qualifications will also be appointed as special expert advisors and researchers of the Research Center. We will be offering more research assignments in the future, so stay tuned.
+Substantial quality contributions (top ranking) will be credited. Students will also receive a certificate of work in English and Chinese, a certificate of achievement, a letter of recommendation, an internship, and a full-time job offer from the research center. All interested parties are welcome to apply. Those who have special skills and qualifications will also be appointed as special expert advisors and researchers of the Research Center. We will be offering more research assignments in the future, so stay tuned.
 
 ## Contact Us
 
