@@ -22,7 +22,7 @@ This repository will be used as a knowledge base to store the research projects 
    
 2. Blockchain x Finance
 
-    We would like to explore NFT and DeFi applications such as UniSwap, Compound, etc. We will offer various rewards for these tasks.
+    We would like to explore NFT and DeFi applications such as UniSwap, Compound, etc. We will offer various rewards for these tasks(in the following document, 1x = 100RMB.
     
     [Bounty Task](https://github.com/DigitalFinanceAndWorldSIG-DAO/Blockchain-x-Finance-SIG-DAO/tree/master)
 
